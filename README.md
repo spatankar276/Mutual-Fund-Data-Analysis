@@ -1,2 +1,2 @@
 # Mutual-Fund-Data-Analysis
-Analyzing mutual fund data from the CRISP database
+Comparing active and passive mutual funds to see which one is better to hold in the long term
